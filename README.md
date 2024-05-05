@@ -1,2 +1,2 @@
- A lo largo del rato que he estado intentando hacer el commit y subirlo me ha dado siempre error y alfinal he optado por subir manualmente el .py
- he creado incluso varios repositorios probando varias veces y nunca llegaba a subirlo de vuelta. 
+ He tenido problemas con las diferentes versiones  del proyecto, al intentar subir de vuelta a github  todo y alfinal he optado por subir manualmente el py. Probe con varios repositorios pero ninguno me dejaba subirlo y se hacia el commmit de ninguna forma .
+ En los proyectos anteriores subidos a github no tuve ese problema. 
